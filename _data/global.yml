@@ -1,7 +1,7 @@
 # Site Settings
 title: 'Brandon Lalonde'
 description: 'My Portfolio Site'
-url: 'https://parthuin.github.io' # the base hostname & protocol for your site
+url: 'https://parthuin.github.io/jeckyl-blog' # the base hostname & protocol for your site
 footer_text: '&copy; Brandon Lalonde'
 
 # Admin Settings
