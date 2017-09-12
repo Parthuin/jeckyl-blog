@@ -1,8 +1,8 @@
 # Site Settings
-title: 'Rich Hildred'
+title: 'Brandon Lalonde'
 description: 'My Portfolio Site'
 url: 'https://parthuin.github.io' # the base hostname & protocol for your site
-footer_text: '&copy; Rich Hildred'
+footer_text: '&copy; Brandon Lalonde'
 
 # Admin Settings
 admin_name: 'Parthuin'
